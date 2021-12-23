@@ -13,6 +13,7 @@
   
   
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="ASH sniper" height="110" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/281121360250535938/923682784944472084/giphy.gif">
   
   
   ##
